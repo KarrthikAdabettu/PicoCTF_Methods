@@ -7,7 +7,8 @@ There are spoilers for the CTF flags in this repository, so it's recommended tha
 
 
 # Acknowledgements
-Some of the solutions were inspired by walkthroughs from these guys:
+Some of the solutions were inspired by walkthroughs from these creators:
 
-https://www.youtube.com/@_JohnHammond
-https://www.youtube.com/@AlmondForce
+- [John Hammond](https://www.youtube.com/@_JohnHammond)
+- [Almond Force](https://www.youtube.com/@AlmondForce)
+
