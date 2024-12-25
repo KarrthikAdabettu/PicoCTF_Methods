@@ -24,7 +24,7 @@
 
 The decoded output will show the flag.
 
-5. The flag is:  picoCTF{p33k_@_b00_d4ca652e}
+5. The flag is:    `picoCTF{p33k_@_b00_d4ca652e}`
 
 
 ### Notes :
