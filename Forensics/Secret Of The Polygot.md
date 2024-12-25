@@ -8,13 +8,15 @@
    mv flag2of2-final.pdf flag2of2-final.txt
    ```
 
-  This converts the file from a PDF to a TXT file. 
+  This converts the file from a PDF to a TXT file.
+  
 4. After running `cat` on the TXT file, the flag was still not visible. Noticing that it was supposed to be a PNG file, I used the command:
 
   ```bash
   mv flag2of2-final.txt flag2of2-final.png
   ```
 This converted the file to a PNG format. 
+
 5. Opening the PNG file provided the first part of the flag. Combining it with the previous part of the flag gives the full flag:  `picoCTF{f1u3n7_1n_pn9_&_pdf_724b1287}`
 
 
