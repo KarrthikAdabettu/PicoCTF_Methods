@@ -33,3 +33,4 @@ It opens an interface where you import the png file. Then go to the analyze opti
 
 1. Make sure to remove the spaces from the flag text.
 2. There is another method to solve this using `sigBits.py`, but I'm not too sure how to use that.
+3. Using `strings` command with `grep` won't work here because we need to get the MSB extracted text.
