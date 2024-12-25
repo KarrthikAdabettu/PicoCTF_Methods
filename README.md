@@ -1,5 +1,5 @@
 # PicoCTF_Methods
-A repository where all the CTF challenges from picoCTF are solved by me in a detailed way
+A repository where I solve all the CTF challenges from picoCTF in a detailed way
 
 
 # Spoilers
