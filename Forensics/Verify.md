@@ -6,10 +6,12 @@
     - Use the `cat` command on the `checksum.txt` file and verify if the checksum ID matches the one provided in the challenge menu. If it matches, then the work is almost done.
     - If the checksum doesn't match, use the command `sha256sum *` to get the hash of all files in the `files` folder. This will produce a huge list, but no need to panic.
     - Use the `grep` command to filter for the specific hash you're looking for. For example in my case:
+      
       ```bash
       sha256sum * | grep '3ad37ed6c5ab81d31e4c94ae611e0adf2e9e3e6bee55804ebc7f386283e366a4'
       ```
       After this, you'll see the hash with its associated file. For instance:
+      
       ```
       3ad37ed6c5ab81d31e4c94ae611e0adf2e9e3e6bee55804ebc7f386283e366a4  e018b574
       ```
