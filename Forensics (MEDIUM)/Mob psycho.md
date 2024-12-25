@@ -18,10 +18,12 @@
    ```
 
    The xxd -p -r command is used to convert hexadecimal-encoded text back into its raw binary format.
+   
    -p: This flag tells xxd to operate in "plain hexdump" mode. It means the input or output will consist of plain hexadecimal text.
+   
    -r: This flag stands for "reverse" and is used to convert a hexdump (or hexadecimal text) back into binary data.
 
-6. The flag we get is as follows :  `picoCTF{ax8mC0RU6ve_NX85l4ax8mCl_a3eb5ac2}`
+7. The flag we get is as follows :  `picoCTF{ax8mC0RU6ve_NX85l4ax8mCl_a3eb5ac2}`
 
 
 
