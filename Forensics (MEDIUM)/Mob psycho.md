@@ -1,6 +1,6 @@
 # Approach
 
-1. Download the file from the challenge, according to the hint, we can unzip the apk file we donloaded, go ahead and do that.
+1. Download the file from the challenge, according to the hint, we can unzip the apk file we downloaded, go ahead and do that.
 2. We get an extremely huge number of files to search from, no need to panic.
 3. In many cases, the flag will most likely be stored in a file named "flag", so let us try to search for that.
 4. Use the command `find` with the name of the word you want to find, in this case:
