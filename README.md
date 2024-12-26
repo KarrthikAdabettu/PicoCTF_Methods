@@ -12,3 +12,4 @@ Some of the solutions were inspired by walkthroughs from these creators:
 - [John Hammond](https://www.youtube.com/@_JohnHammond)
 - [Almond Force](https://www.youtube.com/@AlmondForce)
 
+Some problem solutions were found through write-ups and credits have been given to the creator in the particular file.
