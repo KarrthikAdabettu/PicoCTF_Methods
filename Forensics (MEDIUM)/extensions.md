@@ -9,6 +9,7 @@
    ```
 
 4. This converted the file to a .png format, and then opening the file gives the flag.
+5. The flag is  : `picoCTF{now_you_know_about_extensions}`
 
 
 # Notes
