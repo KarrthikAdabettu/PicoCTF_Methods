@@ -16,3 +16,8 @@
      ```
 
 5. You will then get an updated message.txt file which contains the flag, `picoCTF{s@n1t1z3_be3dd3da}`
+
+
+# Notes
+
+1. The `git checkout` command won't work if you're not specifically in the drop-in directory.
